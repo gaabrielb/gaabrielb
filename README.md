@@ -73,21 +73,8 @@ Python . Java . HTML . CSS . Linux . Android
 <!-- section - blogs -->
 
 
-## Thank you! 🙏
-
-Thanks for reading about me. You can connect with me on ..
-
-<!-- section - social media icons -->
-
-[![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
-[![twitter ombharatiya][3.1]][3]
-[![medium ombharatiya][4.1]][4]
-[![stackoverflow om-bharatiya][5.1]][5]
-[![dev to ombharatiya][6.1]][6]
-
-<!-- section - social media icons -->
+## Thank you!
 
 <p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=gaabriieelb.visitor-badge">
  <p/>
