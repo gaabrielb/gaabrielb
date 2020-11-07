@@ -5,8 +5,8 @@
 
 <!-- icons  -->
 
-[1.1]: https://github.com/gaabriieelb/gaabriieelb/icons8-linkedin-48.png (linkedin icon with padding)
-[2.1]: https://github.com/gaabriieelb/gaabriieelb/icons8-github-48.png (github icon with padding)
+[1.1]: https://github.com/gaabriieelb/gaabriieelb/blob/main/icons8-linkedin-48.png (linkedin icon with padding)
+[2.1]: https://github.com/gaabriieelb/gaabriieelb/blob/main/icons8-github-48.png (github icon with padding)
 
 
 <!-- links to my social media accounts -->
