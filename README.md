@@ -61,7 +61,9 @@ Python . Java . HTML . CSS . Linux . Android
 
 ## Work .. 💻
 
-> Analista de Suporte de TI 
+Analista de Suporte de TI 
+
+Bolsista de Iniciação Científica
 
 <!-- section - job details -->
 
