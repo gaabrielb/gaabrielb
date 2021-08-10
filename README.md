@@ -50,10 +50,11 @@ Python . Java . HTML . CSS . Linux . Android
 <!-- section - job details -->
 
 ## Work .. 💻
+[new] Analista de Aplicaçãoes Web 
 
-Analista de Suporte de TI 
+[old] Analista de Suporte de TI 
 
-Bolsista de Iniciação Científica
+[old] Bolsista de Iniciação Científica
 
 <!-- section - job details -->
 
