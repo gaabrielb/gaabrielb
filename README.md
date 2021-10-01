@@ -23,10 +23,10 @@
 <!-- section - intro -->
 <!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
 
-# Systems Analyst & Data Science Student
+# Systems Analyst
 
 
-Um pouco sobre minha formação: Técnico em Informática e Programação de Jogos Digitais, Graduado em Análise e Desenvolvimento de Sistema e Pós Graduado em Engenharia de Sistemas. Atualmente realizando um MBA em BigData e aventurando no aprendizado de Data Science ✌
+Um pouco sobre minha formação: Técnico em Informática e Programação de Jogos Digitais, Graduado em Análise e Desenvolvimento de Sistema e Pós Graduado em Engenharia de Sistemas. Atualmente realizando um MBA em BigData e aventurando no aprendizado de novas Stacks✌
 
 <!-- section - intro -->
 
@@ -50,7 +50,7 @@ Python . Java . HTML . CSS . Linux . Android
 <!-- section - job details -->
 
 ## Work .. 💻
-[new] Analista de Aplicaçãoes Web 
+[old] Analista de Aplicaçãoes Web 
 
 [old] Analista de Suporte de TI 
 
